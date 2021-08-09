@@ -40,12 +40,3 @@ The passing score for this evaluation is **80**.
 |    └── README.md
 ```
 
-## Submission
-
-- Rename the directory `"#{first_name}_#{last_name}"`.
-- **Remove any `tmp` and `vendor`** folders to ensure your file won't be too
-  big.
-- ZIP it (you can use OS X's built in zip functionality)
-- Make sure you submit a `.zip`; no boutique formats please :-)
-
-Good luck!
